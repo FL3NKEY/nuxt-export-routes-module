@@ -1,0 +1,21 @@
+{
+  "name": "@nuxtjs/export-routes",
+  "version": "1.0.0",
+  "description": "Export routes module for Nuxt.js",
+  "main": "lib/index.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/FL3NKEY/nuxt-export-routes-module.git"
+  },
+  "author": "FL3NKEY",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/FL3NKEY/nuxt-export-routes-module/issues"
+  },
+  "homepage": "https://github.com/FL3NKEY/nuxt-export-routes-module#readme",
+  "dependencies": {
+    "@babel/parser": "^7.8.3",
+    "@babel/traverse": "^7.8.3",
+    "fs-extra": "^8.1.0"
+  }
+}
