@@ -1,5 +1,5 @@
 {
-  "name": "@nuxtjs/export-routes",
+  "name": "nuxt-export-routes-module",
   "version": "1.0.0",
   "description": "Export routes module for Nuxt.js",
   "main": "lib/index.js",
